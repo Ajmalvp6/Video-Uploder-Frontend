@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(26, 0, 51);
+    color: blueviolet;
+    overflow-x: hidden;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+  }
+  

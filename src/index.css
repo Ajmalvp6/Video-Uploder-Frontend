@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+body{
+    background-color: blueviolet;
+    
+    
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Roboto", sans-serif;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#d{
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+#d1{
+    color: gainsboro;
+}
+
+#d2{
+    background: rgb(228,255,0);
+background: linear-gradient(90deg, rgba(228,255,0,1) 0%, rgba(151,4,242,1) 100%);
+}
+
+#d3{
+    color: tomato;
+}
+.p-txt{
+    font-size: 38px;
+    color: tomato;
+}
+
+button{
+    border: none;
+}
